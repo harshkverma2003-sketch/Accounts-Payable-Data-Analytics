@@ -42,16 +42,16 @@ This project simulates a real-world finance / accounting reporting system used i
 ## Power BI Dashboard 
 
 * Cards (Total Invoice, Payment, Credit)
+* Filters / Slicers
 * Monthly Invoice Trend
 * Vendor Wise Analysis
 * State Wise Invoice Analysis
 * Invoice Details Table
-* Filters / Slicers
 
 
 ## Purpose of Project
 
-This project was created to practice real-world data analysis using SQL and Power BI and to demonstrate skills in finance analytics, reporting, and dashboard creation.
+This project was created to practice real-world data analysis using SQL and Power BI and to develop skills in finance analytics, reporting, and dashboard creation.
 
 
 Files
