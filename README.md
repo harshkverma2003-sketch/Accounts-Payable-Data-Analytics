@@ -1,29 +1,30 @@
 # Accounts-Payable-Data-Analytics
 This project analyzes Accounts Payable data using SQL and Power BI.
 
-Tools Used
+**Tools Used**
 
-MySQL
+* MySQL
 
-Power BI
+* Power BI
 
-SQL
+* SQL
 
-Power Query
+* Power Query
 
-DAX
+* DAX
 
-Features
+**Features**
 
-Vendor Analysis
+* Cards
+  
+* Vendor Analysis
 
-Invoice Trend
+* Invoice Trend
 
-Outstanding Amount
+* Outstanding Amount
 
-State-wise Vendors
+* State-wise Vendors
 
-Cards
 
 Files
 
