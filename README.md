@@ -1,29 +1,57 @@
-# Accounts-Payable-Data-Analytics
-This project analyzes Accounts Payable data using SQL and Power BI.
+# Accounts Payable Analytics Dashboard
 
-**Tools Used**
+## Project Overview
+
+This project is an Accounts Payable Analytics Dashboard built using MySQL and Power BI.
+The dashboard analyzes vendor and invoice data to track total invoices, payments, credits, outstanding balance, and monthly trends.
+
+This project simulates a real-world finance / accounting reporting system used in companies.
+
+
+## Tools & Technologies Used
 
 * MySQL
-
+* SQL (JOIN, GROUP BY, Aggregations)
 * Power BI
-
-* SQL
-
 * Power Query
-
 * DAX
-
-**Features**
-
-* Cards
   
-* Vendor Analysis
 
-* Invoice Trend
+## Database Tables are :
 
-* Outstanding Amount
+### Vendors Table
 
-* State-wise Vendors
+* vendor_id
+* vendor_name
+* vendor_state
+* vendor_city
+* phone_number
+
+### Invoices Table
+
+* invoice_number
+* vendor_id
+* invoice_date
+* invoice_due_date
+* payment_date
+* invoice_total
+* payment_total
+* credit_total
+
+
+## Power BI Dashboard 
+
+* Cards (Total Invoice, Payment, Credit)
+* Monthly Invoice Trend
+* Vendor Wise Analysis
+* State Wise Invoice Analysis
+* Invoice Details Table
+* Filters / Slicers
+
+
+## Purpose of Project
+
+This project was created to practice real-world data analysis using SQL and Power BI and to demonstrate skills in finance analytics, reporting, and dashboard creation.
 
 
 Files
